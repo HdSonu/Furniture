@@ -28,7 +28,7 @@ newmtl wire_184228153
 	illum 2
 	Ns 8
 	refl REFLECT.jpg
-	map_kS rust_spec.jpg
+	
 
 
 newmtl wire_086086086
@@ -38,4 +38,4 @@ newmtl wire_086086086
 	illum 2
 	Ns 8
 	refl REFLECT.jpg
-	map_kS rust_spec.jpg
+
