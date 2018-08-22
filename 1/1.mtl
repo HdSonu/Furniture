@@ -24,8 +24,7 @@ newmtl wire_153228184
 	bump 20131121101217386434.jpg
 
 newmtl wire_184228153
-	Ns 200
-	d 1
+	Ns 1000
 	Tr 0
 	illum 3
 	Ka 1.000 1.000 1.000
@@ -35,8 +34,7 @@ newmtl wire_184228153
 
 
 newmtl wire_086086086
-	Ns 200
-	d 1
+	Ns 1000
 	Tr 0
 	illum 3
 	Ka 1.000 1.000 1.000
